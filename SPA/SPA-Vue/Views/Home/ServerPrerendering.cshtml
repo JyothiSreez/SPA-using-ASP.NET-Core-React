@@ -1,0 +1,11 @@
+﻿
+@{
+    ViewData["Title"] = "ServerPrerendering";
+}
+
+<h2>ServerPrerendering</h2>
+
+<div id=" divServer"
+     asp-prerender-module='ServerPrerenderingJs'
+     asp-prerender-data = "new { x=1, y=9 }">
+</div>
