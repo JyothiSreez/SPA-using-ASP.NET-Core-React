@@ -1,4 +1,4 @@
-## SPA using ASP.NET Core and React
+## SPA using Asp.Net Core and React
 ### Single page application using ASP.NET Core and React
 
 This is a project from udemy which includes
