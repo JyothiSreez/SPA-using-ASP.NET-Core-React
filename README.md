@@ -1,7 +1,7 @@
 ## SPA using Asp.Net Core and React
 ### Single page application using ASP.NET Core and React
 
-This is a project from udemy which includes
+This is a project which includes
 
 - ASP.Net Core Services - Node and SPA Services
 - Working with Database  
